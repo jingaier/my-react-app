@@ -1,0 +1,1 @@
+ ./mongod --dbpath=D:\work\my-react-app\data\db --port=27017
